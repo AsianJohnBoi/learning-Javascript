@@ -1,4 +1,4 @@
-let cities = ['Nashville', 'Charlotte', 'Asheville', 'Austin', 'Boulder'];
+let cities = ['Brisbane', 'Gold Coast', 'Sydney', 'Melbourne', 'Adelaide'];
 
 let nums = [1, 50, 75, 200, 350, 525, 1000];
 
